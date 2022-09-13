@@ -2,7 +2,7 @@
 # Branch Predictor
 
 Branch Prediction is a very important trick in Out of Order Processors which increases the performance of OOO processors.\
-To know more about Branch Predictors refer : Branch Predictors](https://www.dropbox.com/s/14haxwqad5fxbhh/chapt-3.pdf?dl=0)
+To know more about Branch Predictors refer : [Branch Predictors](https://www.dropbox.com/s/14haxwqad5fxbhh/chapt-3.pdf?dl=0)
 
 This project implements 4 branch predictors using different Predictor sizes.
 
