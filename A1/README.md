@@ -48,7 +48,7 @@ Run the predictor of your choice.
   java -jar jar/BranchPredictor.jar traces/trace1 2400
 ```
 
-This runs the simulator with the input trace as trace1.\
-It also tells the simulator that the maximum allowed predictor size is 2400 bits.\
-We can change the maximum allowed predictor size to other 3 values and corresponding predictor is chosen and executed.
+- This runs the simulator with the input trace as trace1.
+- It also tells the simulator that the maximum allowed predictor size is 2400 bits.\
+- We can change the maximum allowed predictor size to other 3 values and corresponding predictor is chosen and executed.
 
